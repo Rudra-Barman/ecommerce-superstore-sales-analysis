@@ -121,7 +121,7 @@ streamlit run app.py
 Clone the repository:
 
 
-git clone https://github.com/rudra-barman/ecommerce-superstore-sales-analysis.git
+git clone https://github.com/Rudra-Barman/ecommerce-superstore-sales-analysis.git
 
 cd ecommerce-superstore-sales-analysis
 
